@@ -1,0 +1,1243 @@
+[{"volcano_id":"382090","volcano_name":"Agua de Pau","lat":"37.77","lng":"-
+
+25.47","subregion_id":null,"volcano_codename":"AguadePau","country_id":"1","elevation":"947","meas
+
+uredate":"2017-08-04 12:05:00","power":"0","country_name":"Portugal"},
+
+{"volcano_id":"282080","volcano_name":"Aira","lat":"31.593","lng":"130.657","subregion_id":null,"v
+
+olcano_codename":"Aira","country_id":"2","elevation":"1117","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"290390","volcano_name":"Alaid","lat":"50.858","lng":"155.55","subregion_id":null,"v
+
+olcano_codename":"Alaid","country_id":"11","elevation":"2339","measuredate":"2017-08-04 
+
+02:15:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"257040","volcano_name":"Ambrym","lat":"-
+
+16.25","lng":"168.12","subregion_id":null,"volcano_codename":"Ambrym","country_id":"3","elevation"
+
+:"1334","measuredate":"2017-08-04 11:25:00","power":"0","country_name":"Vanuatu"},
+
+{"volcano_id":"284200","volcano_name":"Anatahan","lat":"16.35","lng":"145.67","subregion_id":null,
+
+"volcano_codename":"Anatahan","country_id":"4","elevation":"790","measuredate":"2017-08-04 
+
+03:45:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"354004","volcano_name":"Andahua-Orcopampa","lat":"-15.42","lng":"-
+
+72.33","subregion_id":null,"volcano_codename":"AndahuaOrcopampa","country_id":"5","elevation":"471
+
+3","measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"352030","volcano_name":"Antisana","lat":"-0.481","lng":"-
+
+78.141","subregion_id":null,"volcano_codename":"Antisana","country_id":"6","elevation":"5753","mea
+
+suredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"257030","volcano_name":"Aoba","lat":"-
+
+15.4","lng":"167.83","subregion_id":null,"volcano_codename":"Aoba","country_id":"3","elevation":"1
+
+496","measuredate":"2017-08-04 11:25:00","power":"0","country_name":"Vanuatu"},
+
+{"volcano_id":"345033","volcano_name":"Arenal","lat":"10.463","lng":"-
+
+84.703","subregion_id":null,"volcano_codename":"Arenal","country_id":"7","elevation":"1670","measu
+
+redate":"2017-08-04 07:45:00","power":"0","country_name":"Costa Rica"},
+
+{"volcano_id":"283110","volcano_name":"Asamayama","lat":"36.406","lng":"138.523","subregion_id":nu
+
+ll,"volcano_codename":"Asamayama","country_id":"2","elevation":"2568","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"373060","volcano_name":"Askja","lat":"65.03","lng":"-
+
+16.75","subregion_id":null,"volcano_codename":"Askja","country_id":"8","elevation":"1516","measure
+
+date":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"282110","volcano_name":"Asosan","lat":"32.884","lng":"131.104","subregion_id":null,
+
+"volcano_codename":"Asosan","country_id":"2","elevation":"1592","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"352021","volcano_name":"Atacazo","lat":"-0.353","lng":"-
+
+78.617","subregion_id":null,"volcano_codename":"Atacazo","country_id":"6","elevation":"4463","meas
+
+uredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"313010","volcano_name":"Augustine","lat":"59.363","lng":"-
+
+153.43","subregion_id":null,"volcano_codename":"Augustine","country_id":"4","elevation":"1252","me
+
+asuredate":"2017-08-04 08:25:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"354001","volcano_name":"Auquihuato, Cerro","lat":"-15.07","lng":"-
+
+73.18","subregion_id":null,"volcano_codename":"AuquihuatoCerro","country_id":"5","elevation":"4980
+
+","measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"351090","volcano_name":"Azufral","lat":"1.08","lng":"-
+
+77.68","subregion_id":null,"volcano_codename":"Azufral","country_id":"25","elevation":"4070","meas
+
+uredate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia"},
+
+{"volcano_id":"353060","volcano_name":"Azul, Cerro","lat":"-0.92","lng":"-
+
+91.408","subregion_id":null,"volcano_codename":"AzulCerro","country_id":"6","elevation":"1640","me
+
+asuredate":"2017-08-04 07:50:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"255020","volcano_name":"Bagana","lat":"-
+
+6.14","lng":"155.195","subregion_id":null,"volcano_codename":"Bagana","country_id":"9","elevation"
+
+:"1750","measuredate":"2017-08-04 03:40:00","power":"0","country_name":"Papua New Guinea"},
+
+{"volcano_id":"373030","volcano_name":"B\u00e1rdarbunga","lat":"64.63","lng":"-
+
+17.53","subregion_id":null,"volcano_codename":"Bardarbunga","country_id":"8","elevation":"2009","m
+
+easuredate":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"260010","volcano_name":"Barren 
+
+Island","lat":"12.278","lng":"93.858","subregion_id":null,"volcano_codename":"BarrenIsland","count
+
+ry_id":"10","elevation":"354","measuredate":"2017-08-04 
+
+07:00:00","power":"7554338","country_name":"India"},
+
+{"volcano_id":"264010","volcano_name":"Batur","lat":"-
+
+8.242","lng":"115.375","subregion_id":null,"volcano_codename":"Batur","country_id":"21","elevation
+
+":"1717","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"300250","volcano_name":"Bezymianny","lat":"55.978","lng":"160.587","subregion_id":n
+
+ull,"volcano_codename":"Bezymianny","country_id":"11","elevation":"2882","measuredate":"2017-08-04 
+
+11:45:00","power":"4318112","country_name":"Russia"},
+
+{"volcano_id":"311300","volcano_name":"Bogoslof","lat":"53.93","lng":"-
+
+168.03","subregion_id":null,"volcano_codename":"Bogoslof","country_id":"4","elevation":"150","meas
+
+uredate":"2017-08-04 10:05:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"390080","volcano_name":"Bristol Island","lat":"-59.063","lng":"-
+
+26.587","subregion_id":null,"volcano_codename":"BristolIsland","country_id":"36","elevation":"1100
+
+","measuredate":"2017-08-04 10:55:00","power":"0","country_name":"United Kingdom"},
+
+{"volcano_id":"273010","volcano_name":"Bulusan","lat":"12.77","lng":"124.05","subregion_id":null,"
+
+volcano_codename":"Bulusan","country_id":"12","elevation":"1565","measuredate":"2017-08-04 
+
+05:25:00","power":"0","country_name":"Philippines"},
+
+{"volcano_id":"358020","volcano_name":"Calbuco","lat":"-41.326","lng":"-
+
+72.614","subregion_id":null,"volcano_codename":"Calbuco","country_id":"15","elevation":"2003","mea
+
+suredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"357091","volcano_name":"Callaqui","lat":"-37.92","lng":"-
+
+71.45","subregion_id":null,"volcano_codename":"Callaqui","country_id":"15","elevation":"3164","mea
+
+suredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"224010","volcano_name":"Cameroon","lat":"4.203","lng":"9.17","subregion_id":null,"v
+
+olcano_codename":"Cameroon","country_id":"13","elevation":"4095","measuredate":"2017-08-04 
+
+01:10:00","power":"0","country_name":"Cameroon"},{"volcano_id":"211010","volcano_name":"Campi 
+
+Flegrei","lat":"40.827","lng":"14.139","subregion_id":null,"volcano_codename":"CampiFlegrei","coun
+
+try_id":"14","elevation":"458","measuredate":"2017-08-04 
+
+12:05:00","power":"0","country_name":"Italy"},{"volcano_id":"354060","volcano_name":"Casiri, 
+
+Nevados","lat":"-17.47","lng":"-
+
+69.813","subregion_id":null,"volcano_codename":"CasiriNevados","country_id":"5","elevation":"5650"
+
+,"measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"352006","volcano_name":"Cayambe","lat":"0.029","lng":"-
+
+77.986","subregion_id":null,"volcano_codename":"Cayambe","country_id":"6","elevation":"5790","meas
+
+uredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"352022","volcano_name":"Chacana","lat":"-0.375","lng":"-
+
+78.25","subregion_id":null,"volcano_codename":"Chacana","country_id":"6","elevation":"4643","measu
+
+redate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"354007","volcano_name":"Chachani, Nevado","lat":"-16.191","lng":"-
+
+71.53","subregion_id":null,"volcano_codename":"ChachaniNevado","country_id":"5","elevation":"6057"
+
+,"measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"352002","volcano_name":"Chachimbiro","lat":"0.468","lng":"-
+
+78.287","subregion_id":null,"volcano_codename":"Chachimbiro","country_id":"6","elevation":"4106","
+
+measuredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"358041","volcano_name":"Chait\u00e9n","lat":"-42.833","lng":"-
+
+72.646","subregion_id":null,"volcano_codename":"Chaiten","country_id":"15","elevation":"1122","mea
+
+suredate":"2017-08-04 06:20:00","power":"1141003","country_name":"Chile"},
+
+{"volcano_id":"341120","volcano_name":"Chich\u00f3n, El","lat":"17.36","lng":"-
+
+93.228","subregion_id":null,"volcano_codename":"ChichonEl","country_id":"16","elevation":"1150","m
+
+easuredate":"2017-08-04 07:45:00","power":"0","country_name":"Mexico"},
+
+{"volcano_id":"357070","volcano_name":"Chill\u00e1n, Nevados de","lat":"-36.863","lng":"-
+
+71.377","subregion_id":null,"volcano_codename":"ChillanNevadosde","country_id":"15","elevation":"3
+
+212","measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"352071","volcano_name":"Chimborazo","lat":"-1.464","lng":"-
+
+78.815","subregion_id":null,"volcano_codename":"Chimborazo","country_id":"6","elevation":"6310","m
+
+easuredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"290260","volcano_name":"Chirinkotan","lat":"48.98","lng":"153.48","subregion_id":nu
+
+ll,"volcano_codename":"Chirinkotan","country_id":"11","elevation":"724","measuredate":"2017-08-04 
+
+11:40:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"290150","volcano_name":"Chirpoi","lat":"46.525","lng":"150.875","subregion_id":null
+
+,"volcano_codename":"Chirpoi","country_id":"11","elevation":"742","measuredate":"2017-08-04 
+
+11:40:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"311240","volcano_name":"Cleveland","lat":"52.825","lng":"-
+
+169.944","subregion_id":null,"volcano_codename":"Cleveland","country_id":"4","elevation":"1730","m
+
+easuredate":"2017-08-04 10:05:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"341040","volcano_name":"Colima","lat":"19.514","lng":"-
+
+103.62","subregion_id":null,"volcano_codename":"Colima","country_id":"16","elevation":"3850","meas
+
+uredate":"2017-08-04 09:20:00","power":"0","country_name":"Mexico"},
+
+{"volcano_id":"344120","volcano_name":"Concepci\u00f3n","lat":"11.538","lng":"-
+
+85.622","subregion_id":null,"volcano_codename":"Concepci
+
+\u00f3n","country_id":"17","elevation":"1700","measuredate":"2017-08-04 
+
+07:45:00","power":"0","country_name":"Nicaragua"},
+
+{"volcano_id":"357090","volcano_name":"Copahue","lat":"-37.856","lng":"-
+
+71.183","subregion_id":null,"volcano_codename":"Copahue","country_id":"18","elevation":"2953","mea
+
+suredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile-Argentina"},
+
+{"volcano_id":"354003","volcano_name":"Coropuna","lat":"-15.52","lng":"-
+
+72.65","subregion_id":null,"volcano_codename":"Coropuna","country_id":"5","elevation":"6377","meas
+
+uredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"352050","volcano_name":"Cotopaxi","lat":"-0.677","lng":"-
+
+78.436","subregion_id":null,"volcano_codename":"Cotopaxi","country_id":"6","elevation":"5911","mea
+
+suredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"352003","volcano_name":"Cuicocha","lat":"0.308","lng":"-
+
+78.364","subregion_id":null,"volcano_codename":"Cuicocha","country_id":"6","elevation":"3246","mea
+
+suredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"221070","volcano_name":"Dalaffilla","lat":"13.792","lng":"40.55","subregion_id":nul
+
+l,"volcano_codename":"Dalaffilla","country_id":"19","elevation":"613","measuredate":"2017-08-04 
+
+10:20:00","power":"0","country_name":"Ethiopia"},
+
+{"volcano_id":"221041","volcano_name":"Dallol","lat":"14.242","lng":"40.3","subregion_id":null,"vo
+
+lcano_codename":"Dallol","country_id":"19","elevation":null,"measuredate":"2017-08-04 
+
+10:20:00","power":"0","country_name":"Ethiopia"},
+
+{"volcano_id":"357050","volcano_name":"Descabezado Grande","lat":"-35.58","lng":"-
+
+70.75","subregion_id":null,"volcano_codename":"DescabezadoGrande","country_id":"15","elevation":"3
+
+953","measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"221100","volcano_name":"Dubbi","lat":"13.58","lng":"41.808","subregion_id":null,"vo
+
+lcano_codename":"Dubbi","country_id":"20","elevation":"1625","measuredate":"2017-08-04 
+
+10:20:00","power":"0","country_name":"Eritrea"},
+
+{"volcano_id":"268010","volcano_name":"Dukono","lat":"1.68","lng":"127.88","subregion_id":null,"vo
+
+lcano_codename":"Dukono","country_id":"21","elevation":"1335","measuredate":"2017-08-04 
+
+05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"290380","volcano_name":"Ebeko","lat":"50.68","lng":"156.02","subregion_id":null,"vo
+
+lcano_codename":"Ebeko","country_id":"11","elevation":"1156","measuredate":"2017-08-04 
+
+11:40:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"264160","volcano_name":"Egon","lat":"-
+
+8.67","lng":"122.45","subregion_id":null,"volcano_codename":"Egon","country_id":"21","elevation":"
+
+1703","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"221080","volcano_name":"Erta 
+
+Ale","lat":"13.6","lng":"40.67","subregion_id":null,"volcano_codename":"ErtaAle","country_id":"19"
+
+,"elevation":"613","measuredate":"2017-08-04 
+
+10:20:00","power":"928377897","country_name":"Ethiopia"},
+
+{"volcano_id":"211060","volcano_name":"Etna","lat":"37.734","lng":"15.004","subregion_id":null,"vo
+
+lcano_codename":"Etna","country_id":"14","elevation":"3330","measuredate":"2017-08-04 
+
+12:05:00","power":"0","country_name":"Italy"},{"volcano_id":"372020","volcano_name":"Eyjafjallaj
+
+\u00f6kull","lat":"63.63","lng":"-
+
+19.62","subregion_id":null,"volcano_codename":"Eyjafjallajokull","country_id":"8","elevation":"166
+
+6","measuredate":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"382010","volcano_name":"Fayal","lat":"38.6","lng":"-
+
+28.73","subregion_id":null,"volcano_codename":"Fayal","country_id":"1","elevation":"1043","measure
+
+date":"2017-08-04 12:05:00","power":"0","country_name":"Portugal"},
+
+{"volcano_id":"353010","volcano_name":"Fernandina","lat":"-0.37","lng":"-
+
+91.55","subregion_id":null,"volcano_codename":"Fernandina","country_id":"6","elevation":"1476","me
+
+asuredate":"2017-08-04 07:50:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"384010","volcano_name":"Fogo","lat":"14.95","lng":"-
+
+24.35","subregion_id":null,"volcano_codename":"Fogo","country_id":"22","elevation":"2829","measure
+
+date":"2017-08-04 12:15:00","power":"0","country_name":"Cape Verde"},
+
+{"volcano_id":"233020","volcano_name":"Fournaise, Piton de la","lat":"-
+
+21.244","lng":"55.708","subregion_id":null,"volcano_codename":"FournaisePitondela","country_id":"2
+
+3","elevation":"2632","measuredate":"2017-08-04 
+
+10:10:00","power":"358885712","country_name":"France"},
+
+{"volcano_id":"342090","volcano_name":"Fuego","lat":"14.473","lng":"-
+
+90.88","subregion_id":null,"volcano_codename":"Fuego","country_id":"24","elevation":"3763","measur
+
+edate":"2017-08-04 07:45:00","power":"73290267","country_name":"Guatemala"},
+
+{"volcano_id":"351080","volcano_name":"Galeras","lat":"1.22","lng":"-
+
+77.37","subregion_id":null,"volcano_codename":"Galeras","country_id":"25","elevation":"4276","meas
+
+uredate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia"},
+
+{"volcano_id":"268060","volcano_name":"Gamalama","lat":"0.8","lng":"127.33","subregion_id":null,"v
+
+olcano_codename":"Gamalama","country_id":"21","elevation":"1715","measuredate":"2017-08-04 
+
+05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"257020","volcano_name":"Gaua","lat":"-
+
+14.27","lng":"167.5","subregion_id":null,"volcano_codename":"Gaua","country_id":"3","elevation":"7
+
+97","measuredate":"2017-08-04 11:25:00","power":"0","country_name":"Vanuatu"},
+
+{"volcano_id":"300070","volcano_name":"Gorely","lat":"52.558","lng":"158.03","subregion_id":null,"
+
+volcano_codename":"Gorely","country_id":"11","elevation":"1829","measuredate":"2017-08-04 
+
+11:45:00","power":"0","country_name":"Russia"},{"volcano_id":"373010","volcano_name":"Gr\u00edmsv
+
+\u00f6tn","lat":"64.42","lng":"-
+
+17.33","subregion_id":null,"volcano_codename":"Grimsvotn","country_id":"8","elevation":"1725","mea
+
+suredate":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"352020","volcano_name":"Guagua Pichincha","lat":"-0.171","lng":"-
+
+78.598","subregion_id":null,"volcano_codename":"GuaguaPichincha","country_id":"6","elevation":"478
+
+4","measuredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"355020","volcano_name":"Guallatiri","lat":"-18.42","lng":"-
+
+69.092","subregion_id":null,"volcano_codename":"Guallatiri","country_id":"15","elevation":"6071","
+
+measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"283020","volcano_name":"Hakoneyama","lat":"35.233","lng":"139.021","subregion_id":n
+
+ull,"volcano_codename":"Hakoneyama","country_id":"2","elevation":"1438","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"372070","volcano_name":"Hekla","lat":"63.98","lng":"-
+
+19.7","subregion_id":null,"volcano_codename":"Hekla","country_id":"8","elevation":"1491","measured
+
+ate":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"383020","volcano_name":"Hierro","lat":"27.73","lng":"-
+
+18.03","subregion_id":null,"volcano_codename":"Hierro","country_id":"26","elevation":"1500","measu
+
+redate":"2017-08-04 12:10:00","power":"0","country_name":"Spain"},
+
+{"volcano_id":"354005","volcano_name":"Huambo","lat":"-15.83","lng":"-
+
+72.13","subregion_id":null,"volcano_codename":"Huambo","country_id":"5","elevation":"4550","measur
+
+edate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"354030","volcano_name":"Huaynaputina","lat":"-16.608","lng":"-
+
+70.85","subregion_id":null,"volcano_codename":"Huaynaputina","country_id":"5","elevation":"4850","
+
+measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"358057","volcano_name":"Hudson, Cerro","lat":"-45.9","lng":"-
+
+72.97","subregion_id":null,"volcano_codename":"HudsonCerro","country_id":"15","elevation":"1905","
+
+measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"351050","volcano_name":"Huila, Nevado del","lat":"2.93","lng":"-
+
+76.03","subregion_id":null,"volcano_codename":"HuilaNevadodel","country_id":"25","elevation":"5364
+
+","measuredate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia"},
+
+{"volcano_id":"268030","volcano_name":"Ibu","lat":"1.488","lng":"127.63","subregion_id":null,"volc
+
+ano_codename":"Ibu","country_id":"21","elevation":"1325","measuredate":"2017-08-04 
+
+05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"263350","volcano_name":"Ijen","lat":"-
+
+8.058","lng":"114.242","subregion_id":null,"volcano_codename":"Ijen","country_id":"21","elevation"
+
+:"2799","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"352041","volcano_name":"Illiniza","lat":"-0.659","lng":"-
+
+78.714","subregion_id":null,"volcano_codename":"Illiniza","country_id":"6","elevation":"5248","mea
+
+suredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"352004","volcano_name":"Imbabura","lat":"0.258","lng":"-
+
+78.183","subregion_id":null,"volcano_codename":"Imbabura","country_id":"6","elevation":"4609","mea
+
+suredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"345060","volcano_name":"Iraz\u00fa","lat":"9.979","lng":"-
+
+83.852","subregion_id":null,"volcano_codename":"Irazu","country_id":"7","elevation":"3432","measur
+
+edate":"2017-08-04 07:45:00","power":"0","country_name":"Costa Rica"},
+
+{"volcano_id":"267020","volcano_name":"Karangetang [Api 
+
+Siau]","lat":"2.78","lng":"125.4","subregion_id":null,"volcano_codename":"Karangetang","country_id
+
+":"21","elevation":"1784","measuredate":"2017-08-04 
+
+05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"223040","volcano_name":"Karisimbi","lat":"-
+
+1.5","lng":"29.45","subregion_id":null,"volcano_codename":"Karisimbi","country_id":"27","elevation
+
+":"4507","measuredate":"2017-08-04 11:55:00","power":"0","country_name":"DR Congo-Rwanda"},
+
+{"volcano_id":"233010","volcano_name":"Karthala","lat":"-
+
+11.75","lng":"43.38","subregion_id":null,"volcano_codename":"Karthala","country_id":"28","elevatio
+
+n":"2361","measuredate":"2017-08-04 10:15:00","power":"0","country_name":"Comoros"},
+
+{"volcano_id":"300130","volcano_name":"Karymsky","lat":"54.05","lng":"159.45","subregion_id":null,
+
+"volcano_codename":"Karymsky","country_id":"11","elevation":"1536","measuredate":"2017-08-04 
+
+11:45:00","power":"14729803","country_name":"Russia"},
+
+{"volcano_id":"372030","volcano_name":"Katla","lat":"63.63","lng":"-
+
+19.05","subregion_id":null,"volcano_codename":"Katla","country_id":"8","elevation":"1512","measure
+
+date":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"263280","volcano_name":"Kelut","lat":"-
+
+7.93","lng":"112.308","subregion_id":null,"volcano_codename":"Kelut","country_id":"21","elevation"
+
+:"1731","measuredate":"2017-08-04 02:25:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"332010","volcano_name":"Kilauea","lat":"19.4211","lng":"-
+
+155.1867","subregion_id":null,"volcano_codename":"Kilauea","country_id":"4","elevation":"1222","me
+
+asuredate":"2017-08-04 08:15:00","power":"756254394","country_name":"United States"},
+
+{"volcano_id":"282090","volcano_name":"Kirishimayama","lat":"31.934","lng":"130.862","subregion_id
+
+":null,"volcano_codename":"Kirishimayama","country_id":"2","elevation":"1700","measuredate":"2017
+
+-08-04 03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"300230","volcano_name":"Kizimen","lat":"55.13","lng":"160.32","subregion_id":null,"
+
+volcano_codename":"Kizimen","country_id":"11","elevation":"2376","measuredate":"2017-08-04 
+
+11:45:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"300260","volcano_name":"Kliuchevskoi","lat":"56.057","lng":"160.638","subregion_id"
+
+:null,"volcano_codename":"Kliuchevskoi","country_id":"11","elevation":"4835","measuredate":"2017-
+
+08-04 11:45:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"373080","volcano_name":"Krafla","lat":"65.73","lng":"-
+
+16.78","subregion_id":null,"volcano_codename":"Krafla","country_id":"8","elevation":"818","measure
+
+date":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"262000","volcano_name":"Krakatau","lat":"-
+
+6.102","lng":"105.423","subregion_id":null,"volcano_codename":"Krakatau","country_id":"21","elevat
+
+ion":"813","measuredate":"2017-08-04 06:55:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"371030","volcano_name":"Kr\u00edsuv\u00edk","lat":"63.93","lng":"-
+
+22.1","subregion_id":null,"volcano_codename":"Krisuvik","country_id":"8","elevation":"379","measur
+
+edate":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"283120","volcano_name":"Kusatsu-
+
+Shiranesan","lat":"36.618","lng":"138.528","subregion_id":null,"volcano_codename":"KusatsuShiranes
+
+an","country_id":"2","elevation":"2165","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"252010","volcano_name":"Langila","lat":"-
+
+5.525","lng":"148.42","subregion_id":null,"volcano_codename":"Langila","country_id":"9","elevation
+
+":"1330","measuredate":"2017-08-04 03:40:00","power":"0","country_name":"Papua New Guinea"},
+
+{"volcano_id":"355100","volcano_name":"L\u00e1scar","lat":"-23.37","lng":"-
+
+67.73","subregion_id":null,"volcano_codename":"Lascar","country_id":"15","elevation":"5592","measu
+
+redate":"2017-08-04 06:15:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"355120","volcano_name":"Lastarria","lat":"-25.168","lng":"-
+
+68.507","subregion_id":null,"volcano_codename":"Lastarria","country_id":"18","elevation":"5706","m
+
+easuredate":"2017-08-04 06:15:00","power":"0","country_name":"Chile-Argentina"},
+
+{"volcano_id":"222120","volcano_name":"Lengai, Ol Doinyo","lat":"-
+
+2.764","lng":"35.914","subregion_id":null,"volcano_codename":"LengaiOlDoinyo","country_id":"29","e
+
+levation":"2962","measuredate":"2017-08-04 07:20:00","power":"0","country_name":"Tanzania"},
+
+{"volcano_id":"352081","volcano_name":"Licto","lat":"-1.78","lng":"-
+
+78.613","subregion_id":null,"volcano_codename":"Licto","country_id":"6","elevation":"3336","measur
+
+edate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"357110","volcano_name":"Llaima","lat":"-38.692","lng":"-
+
+71.729","subregion_id":null,"volcano_codename":"Llaima","country_id":"15","elevation":"3125","meas
+
+uredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"266100","volcano_name":"Lokon-
+
+Empung","lat":"1.358","lng":"124.792","subregion_id":null,"volcano_codename":"LokonEmpung","countr
+
+y_id":"21","elevation":"1580","measuredate":"2017-08-04 
+
+05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"357100","volcano_name":"Lonquimay","lat":"-38.377","lng":"-
+
+71.58","subregion_id":null,"volcano_codename":"Lonquimay","country_id":"15","elevation":"2865","me
+
+asuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"257050","volcano_name":"Lopevi","lat":"-
+
+16.507","lng":"168.346","subregion_id":null,"volcano_codename":"Lopevi","country_id":"3","elevatio
+
+n":"1413","measuredate":"2017-08-04 11:25:00","power":"0","country_name":"Vanuatu"},
+
+{"volcano_id":"251020","volcano_name":"Manam","lat":"-
+
+4.08","lng":"145.037","subregion_id":null,"volcano_codename":"Manam","country_id":"9","elevation":
+
+"1807","measuredate":"2017-08-04 03:40:00","power":"0","country_name":"Papua New Guinea"},
+
+{"volcano_id":"344100","volcano_name":"Masaya","lat":"11.984","lng":"-
+
+86.161","subregion_id":null,"volcano_codename":"Masaya","country_id":"17","elevation":"635","measu
+
+redate":"2017-08-04 07:45:00","power":"0","country_name":"Nicaragua"},
+
+{"volcano_id":"332020","volcano_name":"Mauna Loa","lat":"19.475","lng":"-
+
+155.608","subregion_id":null,"volcano_codename":"MaunaLoa","country_id":"4","elevation":"4170","me
+
+asuredate":"2017-08-04 08:15:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"223010","volcano_name":"May-ya-moto","lat":"-
+
+0.93","lng":"29.33","subregion_id":null,"volcano_codename":"Mayyamoto","country_id":"30","elevatio
+
+n":"950","measuredate":"2017-08-04 11:55:00","power":"0","country_name":"DR Congo"},
+
+{"volcano_id":"273030","volcano_name":"Mayon","lat":"13.257","lng":"123.685","subregion_id":null,"
+
+volcano_codename":"Mayon","country_id":"12","elevation":"2462","measuredate":"2017-08-04 
+
+05:25:00","power":"0","country_name":"Philippines"},
+
+{"volcano_id":"263250","volcano_name":"Merapi","lat":"-
+
+7.542","lng":"110.442","subregion_id":null,"volcano_codename":"Merapi","country_id":"21","elevatio
+
+n":"2968","measuredate":"2017-08-04 06:55:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"390090","volcano_name":"Michael","lat":"-57.787","lng":"-
+
+26.46","subregion_id":null,"volcano_codename":"Michael","country_id":"36","elevation":"990","measu
+
+redate":"2017-08-04 10:55:00","power":"0","country_name":"United Kingdom"},
+
+{"volcano_id":"358040","volcano_name":"Minchinm\u00e1vida","lat":"-42.793","lng":"-
+
+72.439","subregion_id":null,"volcano_codename":"Minchinmavida","country_id":"15","elevation":"2404
+
+","measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"354010","volcano_name":"Misti, El","lat":"-16.294","lng":"-
+
+71.409","subregion_id":null,"volcano_codename":"MistiEl","country_id":"5","elevation":"5822","meas
+
+uredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"284040","volcano_name":"Miyakejima","lat":"34.094","lng":"139.526","subregion_id":n
+
+ull,"volcano_codename":"Miyakejima","country_id":"2","elevation":"775","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},{"volcano_id":"357130","volcano_name":"Mocho-
+
+Choshuenco","lat":"-39.927","lng":"-
+
+72.027","subregion_id":null,"volcano_codename":"MochoChoshuenco","country_id":"15","elevation":"24
+
+22","measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"352005","volcano_name":"Mojanda","lat":"0.13","lng":"-
+
+78.27","subregion_id":null,"volcano_codename":"Mojanda","country_id":"6","elevation":"4263","measu
+
+redate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"344090","volcano_name":"Momotombo","lat":"12.422","lng":"-
+
+86.54","subregion_id":null,"volcano_codename":"Momotombo","country_id":"17","elevation":"1297","me
+
+asuredate":"2017-08-04 07:45:00","power":"0","country_name":"Nicaragua"},
+
+{"volcano_id":"390081","volcano_name":"Montagu Island","lat":"-58.42","lng":"-
+
+26.33","subregion_id":null,"volcano_codename":"MontaguIsland","country_id":"36","elevation":"1370"
+
+,"measuredate":"2017-08-04 10:55:00","power":"0","country_name":"United Kingdom"},
+
+{"volcano_id":"223060","volcano_name":"Muhavura","lat":"-
+
+1.38","lng":"29.67","subregion_id":null,"volcano_codename":"Muhavura","country_id":"31","elevation
+
+":"4127","measuredate":"2017-08-04 11:55:00","power":"0","country_name":"Uganda-Rwanda"},
+
+{"volcano_id":"221101","volcano_name":"Nabro","lat":"13.37","lng":"41.7","subregion_id":null,"volc
+
+ano_codename":"Nabro","country_id":"20","elevation":"2218","measuredate":"2017-08-04 
+
+10:20:00","power":"0","country_name":"Eritrea"},{"volcano_id":"353050","volcano_name":"Negra, 
+
+Sierra","lat":"-0.83","lng":"-
+
+91.17","subregion_id":null,"volcano_codename":"NegraSierra","country_id":"6","elevation":"1124","m
+
+easuredate":"2017-08-04 07:50:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"351110","volcano_name":"Negro de Mayasquer, Cerro","lat":"0.828","lng":"-
+
+77.964","subregion_id":null,"volcano_codename":"NegrodeMayasquerCerro","country_id":"32","elevatio
+
+n":"4445","measuredate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia-Ecuador"},
+
+{"volcano_id":"344070","volcano_name":"Negro, Cerro","lat":"12.506","lng":"-
+
+86.702","subregion_id":null,"volcano_codename":"NegroCerro","country_id":"17","elevation":"728","m
+
+easuredate":"2017-08-04 07:45:00","power":"0","country_name":"Nicaragua"},
+
+{"volcano_id":"354008","volcano_name":"Nicholson, Cerro","lat":"-16.258","lng":"-
+
+71.753","subregion_id":null,"volcano_codename":"NicholsonCerro","country_id":"5","elevation":"2520
+
+","measuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"284096","volcano_name":"Nishinoshima","lat":"27.247","lng":"140.874","subregion_id"
+
+:null,"volcano_codename":"Nishinoshima","country_id":"2","elevation":"25","measuredate":"2017-08-
+
+04 03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"223020","volcano_name":"Nyamuragira","lat":"-
+
+1.408","lng":"29.2","subregion_id":null,"volcano_codename":"Nyamuragira","country_id":"30","elevat
+
+ion":"3058","measuredate":"2017-08-04 11:55:00","power":"0","country_name":"DR Congo"},
+
+{"volcano_id":"223030","volcano_name":"Nyiragongo","lat":"-
+
+1.52","lng":"29.25","subregion_id":null,"volcano_codename":"Nyiragongo","country_id":"30","elevati
+
+on":"3470","measuredate":"2017-08-04 11:55:00","power":"0","country_name":"DR Congo"},
+
+{"volcano_id":"311290","volcano_name":"Okmok","lat":"53.43","lng":"-
+
+168.13","subregion_id":null,"volcano_codename":"Okmok","country_id":"4","elevation":"1073","measur
+
+edate":"2017-08-04 10:05:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"283040","volcano_name":"Ontakesan","lat":"35.893","lng":"137.48","subregion_id":nul
+
+l,"volcano_codename":"Ontakesan","country_id":"2","elevation":"3067","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"342110","volcano_name":"Pacaya","lat":"14.381","lng":"-
+
+90.601","subregion_id":null,"volcano_codename":"Pacaya","country_id":"24","elevation":"2552","meas
+
+uredate":"2017-08-04 07:45:00","power":"0","country_name":"Guatemala"},
+
+{"volcano_id":"284170","volcano_name":"Pagan","lat":"18.13","lng":"145.8","subregion_id":null,"vol
+
+cano_codename":"Pagan","country_id":"4","elevation":"570","measuredate":"2017-08-04 
+
+03:45:00","power":"7654705","country_name":"United States"},
+
+{"volcano_id":"252080","volcano_name":"Pago","lat":"-
+
+5.58","lng":"150.52","subregion_id":null,"volcano_codename":"Pago","country_id":"9","elevation":"7
+
+42","measuredate":"2017-08-04 03:40:00","power":"0","country_name":"Papua New Guinea"},
+
+{"volcano_id":"264150","volcano_name":"Paluweh","lat":"-
+
+8.32","lng":"121.708","subregion_id":null,"volcano_codename":"Paluweh","country_id":"21","elevatio
+
+n":"875","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"312030","volcano_name":"Pavlof","lat":"55.42","lng":"-
+
+161.887","subregion_id":null,"volcano_codename":"Pavlof","country_id":"4","elevation":"2519","meas
+
+uredate":"2017-08-04 08:25:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"360120","volcano_name":"Pel\u00e9e","lat":"14.809","lng":"-
+
+61.165","subregion_id":null,"volcano_codename":"Pelee","country_id":"23","elevation":"1394","measu
+
+redate":"2017-08-04 06:05:00","power":"0","country_name":"France"},
+
+{"volcano_id":"382020","volcano_name":"Pico","lat":"38.47","lng":"-
+
+28.4","subregion_id":null,"volcano_codename":"Pico","country_id":"1","elevation":"2351","measureda
+
+te":"2017-08-04 12:05:00","power":"0","country_name":"Portugal"},
+
+{"volcano_id":"273083","volcano_name":"Pinatubo","lat":"15.13","lng":"120.35","subregion_id":null,
+
+"volcano_codename":"Pinatubo","country_id":"12","elevation":"1486","measuredate":"2017-08-04 
+
+05:25:00","power":"0","country_name":"Philippines"},{"volcano_id":"357040","volcano_name":"Planch
+
+\u00f3n-Peteroa","lat":"-35.223","lng":"-
+
+70.568","subregion_id":null,"volcano_codename":"PlanchonPeteroa","country_id":"15","elevation":"41
+
+07","measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"345040","volcano_name":"Po\u00e1s","lat":"10.2","lng":"-
+
+84.233","subregion_id":null,"volcano_codename":"Poas","country_id":"7","elevation":"2708","measure
+
+date":"2017-08-04 07:45:00","power":"0","country_name":"Costa Rica"},
+
+{"volcano_id":"341090","volcano_name":"Popocat\u00e9petl","lat":"19.023","lng":"-
+
+98.622","subregion_id":null,"volcano_codename":"Popocatepetl","country_id":"16","elevation":"5426"
+
+,"measuredate":"2017-08-04 07:45:00","power":"0","country_name":"Mexico"},
+
+{"volcano_id":"352011","volcano_name":"Pululagua","lat":"0.038","lng":"-
+
+78.463","subregion_id":null,"volcano_codename":"Pululagua","country_id":"6","elevation":"3356","me
+
+asuredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"351060","volcano_name":"Purac\u00e9","lat":"2.32","lng":"-
+
+76.4","subregion_id":null,"volcano_codename":"Purace","country_id":"25","elevation":"4650","measur
+
+edate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia"},
+
+{"volcano_id":"357150","volcano_name":"Puyehue-Cord\u00f3n Caulle","lat":"-40.59","lng":"-
+
+72.117","subregion_id":null,"volcano_codename":"PuyehueCordonCaulle","country_id":"15","elevation"
+
+:"2236","measuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"352060","volcano_name":"Quilotoa","lat":"-0.85","lng":"-
+
+78.9","subregion_id":null,"volcano_codename":"Quilotoa","country_id":"6","elevation":"3914","measu
+
+redate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"354000","volcano_name":"Quimsachata","lat":"-14.2","lng":"-
+
+71.33","subregion_id":null,"volcano_codename":"Quimsachata","country_id":"5","elevation":"3923","m
+
+easuredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"252140","volcano_name":"Rabaul","lat":"-
+
+4.271","lng":"152.203","subregion_id":null,"volcano_codename":"Rabaul","country_id":"9","elevation
+
+":"688","measuredate":"2017-08-04 03:40:00","power":"0","country_name":"Papua New Guinea"},
+
+{"volcano_id":"263340","volcano_name":"Raung","lat":"-
+
+8.125","lng":"114.042","subregion_id":null,"volcano_codename":"Raung","country_id":"21","elevation
+
+":"3332","measuredate":"2017-08-04 02:25:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"313030","volcano_name":"Redoubt","lat":"60.485","lng":"-
+
+152.742","subregion_id":null,"volcano_codename":"Redoubt","country_id":"4","elevation":"3108","mea
+
+suredate":"2017-08-04 08:25:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"352010","volcano_name":"Reventador","lat":"-0.077","lng":"-
+
+77.656","subregion_id":null,"volcano_codename":"Reventador","country_id":"6","elevation":"3562","m
+
+easuredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"371020","volcano_name":"Reykjanes","lat":"63.88","lng":"-
+
+22.5","subregion_id":null,"volcano_codename":"Reykjanes","country_id":"8","elevation":"230","measu
+
+redate":"2017-08-04 12:00:00","power":"0","country_name":"Iceland"},
+
+{"volcano_id":"345020","volcano_name":"Rinc\u00f3n de la Vieja","lat":"10.83","lng":"-
+
+85.324","subregion_id":null,"volcano_codename":"Rinc\u00f3n de la 
+
+Vieja","country_id":"7","elevation":"1916","measuredate":"2017-08-04 
+
+07:45:00","power":"0","country_name":"Costa Rica"},
+
+{"volcano_id":"264030","volcano_name":"Rinjani","lat":"-
+
+8.42","lng":"116.47","subregion_id":null,"volcano_codename":"Rinjani","country_id":"21","elevation
+
+":"3726","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"241100","volcano_name":"Ruapehu","lat":"-
+
+39.28","lng":"175.57","subregion_id":null,"volcano_codename":"Ruapehu","country_id":"33","elevatio
+
+n":"2797","measuredate":"2017-08-04 11:15:00","power":"332019","country_name":"New Zealand"},
+
+{"volcano_id":"351020","volcano_name":"Ruiz, Nevado del","lat":"4.895","lng":"-
+
+75.322","subregion_id":null,"volcano_codename":"RuizNevadodel","country_id":"25","elevation":"5321
+
+","measuredate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia"},
+
+{"volcano_id":"354006","volcano_name":"Sabancaya","lat":"-15.78","lng":"-
+
+71.85","subregion_id":null,"volcano_codename":"Sabancaya","country_id":"5","elevation":"5967","mea
+
+suredate":"2017-08-04 06:15:00","power":"15002666","country_name":"Peru"},
+
+{"volcano_id":"343100","volcano_name":"San Miguel","lat":"13.434","lng":"-
+
+88.269","subregion_id":null,"volcano_codename":"SanMiguel","country_id":"34","elevation":"2130","m
+
+easuredate":"2017-08-04 07:45:00","power":"0","country_name":"El Salvador"},
+
+{"volcano_id":"344020","volcano_name":"SanCrist\u00f3bal","lat":"12.702","lng":"-
+
+87.004","subregion_id":null,"volcano_codename":"SanCristobal","country_id":"17","elevation":"1745"
+
+,"measuredate":"2017-08-04 07:45:00","power":"0","country_name":"Nicaragua"},
+
+{"volcano_id":"352090","volcano_name":"Sangay","lat":"-2.002","lng":"-
+
+78.341","subregion_id":null,"volcano_codename":"Sangay","country_id":"6","elevation":"5230","measu
+
+redate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"264050","volcano_name":"Sangeang Api","lat":"-
+
+8.2","lng":"119.07","subregion_id":null,"volcano_codename":"SangeangApi","country_id":"21","elevat
+
+ion":"1949","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"343020","volcano_name":"Santa Ana","lat":"13.853","lng":"-
+
+89.63","subregion_id":null,"volcano_codename":"Santa 
+
+Ana","country_id":"34","elevation":"2381","measuredate":"2017-08-04 
+
+07:45:00","power":"0","country_name":"El Salvador"},{"volcano_id":"342030","volcano_name":"Santa 
+
+Mar\u00eda","lat":"14.756","lng":"-
+
+91.552","subregion_id":null,"volcano_codename":"SantaMaria","country_id":"24","elevation":"3772","
+
+measuredate":"2017-08-04 07:45:00","power":"1934538","country_name":"Guatemala"},
+
+{"volcano_id":"212040","volcano_name":"Santorini","lat":"36.404","lng":"25.396","subregion_id":nul
+
+l,"volcano_codename":"Santorini","country_id":"35","elevation":"367","measuredate":"2017-08-04 
+
+12:05:00","power":"0","country_name":"Greece"},{"volcano_id":"354002","volcano_name":"Sara 
+
+Sara","lat":"-15.33","lng":"-
+
+73.45","subregion_id":null,"volcano_codename":"SaraSara","country_id":"5","elevation":"5522","meas
+
+uredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"290240","volcano_name":"Sarychev 
+
+Peak","lat":"48.092","lng":"153.2","subregion_id":null,"volcano_codename":"SarychevPeak","country_
+
+id":"11","elevation":"1496","measuredate":"2017-08-04 
+
+11:40:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"263300","volcano_name":"Semeru","lat":"-
+
+8.108","lng":"112.92","subregion_id":null,"volcano_codename":"Semeru","country_id":"21","elevation
+
+":"3676","measuredate":"2017-08-04 02:25:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"382080","volcano_name":"Sete Cidades","lat":"37.87","lng":"-
+
+25.78","subregion_id":null,"volcano_codename":"SeteCidades","country_id":"1","elevation":"856","me
+
+asuredate":"2017-08-04 12:05:00","power":"0","country_name":"Portugal"},
+
+{"volcano_id":"311360","volcano_name":"Shishaldin","lat":"54.756","lng":"-
+
+163.97","subregion_id":null,"volcano_codename":"Shishaldin","country_id":"4","elevation":"2857","m
+
+easuredate":"2017-08-04 08:25:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"300270","volcano_name":"Shiveluch","lat":"56.653","lng":"161.36","subregion_id":nul
+
+l,"volcano_codename":"Shiveluch","country_id":"11","elevation":"3283","measuredate":"2017-08-04 
+
+11:45:00","power":"4035806","country_name":"Russia"},
+
+{"volcano_id":"261080","volcano_name":"Sinabung","lat":"3.17","lng":"98.392","subregion_id":null,"
+
+volcano_codename":"Sinabung","country_id":"21","elevation":"2460","measuredate":"2017-08-04 
+
+07:00:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"263180","volcano_name":"Slamet","lat":"-
+
+7.242","lng":"109.208","subregion_id":null,"volcano_codename":"Slamet","country_id":"21","elevatio
+
+n":"3428","measuredate":"2017-08-04 06:55:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"352001","volcano_name":"Soche","lat":"0.552","lng":"-
+
+77.58","subregion_id":null,"volcano_codename":"Soche","country_id":"6","elevation":"3955","measure
+
+date":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"266030","volcano_name":"Soputan","lat":"1.108","lng":"124.73","subregion_id":null,"
+
+volcano_codename":"Soputan","country_id":"21","elevation":"1784","measuredate":"2017-08-04 
+
+05:20:00","power":"0","country_name":"Indonesia"},{"volcano_id":"351061","volcano_name":"Sotar
+
+\u00e1","lat":"2.108","lng":"-
+
+76.592","subregion_id":null,"volcano_codename":"Sotara","country_id":"25","elevation":"4400","meas
+
+uredate":"2017-08-04 06:10:00","power":"0","country_name":"Colombia"},
+
+{"volcano_id":"360060","volcano_name":"Soufri\u00e8re Guadeloupe","lat":"16.044","lng":"-
+
+61.664","subregion_id":null,"volcano_codename":"SoufriereGuadeloupe","country_id":"23","elevation"
+
+:"1467","measuredate":"2017-08-04 06:05:00","power":"0","country_name":"France"},
+
+{"volcano_id":"360050","volcano_name":"Soufri\u00e8re Hills","lat":"16.72","lng":"-
+
+62.18","subregion_id":null,"volcano_codename":"SoufriereHills","country_id":"36","elevation":"915"
+
+,"measuredate":"2017-08-04 06:05:00","power":"0","country_name":"United Kingdom"},
+
+{"volcano_id":"360150","volcano_name":"Soufri\u00e8re St. Vincent","lat":"13.33","lng":"-
+
+61.18","subregion_id":null,"volcano_codename":"SoufriereStVincent","country_id":"37","elevation":"
+
+1220","measuredate":"2017-08-04 06:05:00","power":"0","country_name":"Saint Vincent and the 
+
+Grenadines"},{"volcano_id":"321050","volcano_name":"St. Helens","lat":"46.2","lng":"-
+
+122.18","subregion_id":null,"volcano_codename":"StHelens","country_id":"4","elevation":"2549","mea
+
+suredate":"2017-08-04 10:55:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"211040","volcano_name":"Stromboli","lat":"38.789","lng":"15.213","subregion_id":nul
+
+l,"volcano_codename":"Stromboli","country_id":"14","elevation":"924","measuredate":"2017-08-04 
+
+12:05:00","power":"0","country_name":"Italy"},
+
+{"volcano_id":"352040","volcano_name":"Sumaco","lat":"-0.538","lng":"-
+
+77.626","subregion_id":null,"volcano_codename":"Sumaco","country_id":"6","elevation":"3990","measu
+
+redate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"282030","volcano_name":"Suwanosejima","lat":"29.638","lng":"129.714","subregion_id"
+
+:null,"volcano_codename":"Suwanosejima","country_id":"2","elevation":"796","measuredate":"2017-08
+
+-04 03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"264040","volcano_name":"Tambora","lat":"-
+
+8.25","lng":"118","subregion_id":null,"volcano_codename":"Tambora","country_id":"21","elevation":"
+
+2850","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"264260","volcano_name":"Tara, Batu","lat":"-
+
+7.792","lng":"123.579","subregion_id":null,"volcano_codename":"TaraBatu","country_id":"21","elevat
+
+ion":"748","measuredate":"2017-08-04 05:20:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"344040","volcano_name":"Telica","lat":"12.602","lng":"-
+
+86.845","subregion_id":null,"volcano_codename":"Telica","country_id":"17","elevation":"1061","meas
+
+uredate":"2017-08-04 07:45:00","power":"0","country_name":"Nicaragua"},
+
+{"volcano_id":"383030","volcano_name":"Tenerife","lat":"28.271","lng":"-
+
+16.641","subregion_id":null,"volcano_codename":"Tenerife","country_id":"26","elevation":"3715","me
+
+asuredate":"2017-08-04 12:10:00","power":"0","country_name":"Spain"},
+
+{"volcano_id":"263310","volcano_name":"Tengger Caldera","lat":"-
+
+7.942","lng":"112.95","subregion_id":null,"volcano_codename":"TenggerCaldera","country_id":"21","e
+
+levation":"2329","measuredate":"2017-08-04 02:25:00","power":"0","country_name":"Indonesia"},
+
+{"volcano_id":"382050","volcano_name":"Terceira","lat":"38.73","lng":"-
+
+27.32","subregion_id":null,"volcano_codename":"Terceira","country_id":"1","elevation":"1023","meas
+
+uredate":"2017-08-04 12:05:00","power":"0","country_name":"Portugal"},
+
+{"volcano_id":"354031","volcano_name":"Ticsani","lat":"-16.755","lng":"-
+
+70.595","subregion_id":null,"volcano_codename":"Ticsani","country_id":"5","elevation":"5408","meas
+
+uredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"256010","volcano_name":"Tinakula","lat":"-
+
+10.38","lng":"165.8","subregion_id":null,"volcano_codename":"Tinakula","country_id":"38","elevatio
+
+n":"851","measuredate":"2017-08-04 11:25:00","power":"0","country_name":"Solomon Islands"},
+
+{"volcano_id":"300240","volcano_name":"Tolbachik","lat":"55.83","lng":"160.33","subregion_id":null
+
+,"volcano_codename":"Tolbachik","country_id":"11","elevation":"3682","measuredate":"2017-08-04 
+
+11:45:00","power":"0","country_name":"Russia"},
+
+{"volcano_id":"241080","volcano_name":"Tongariro","lat":"-
+
+39.157","lng":"175.632","subregion_id":null,"volcano_codename":"Tongariro","country_id":"33","elev
+
+ation":"1978","measuredate":"2017-08-04 11:15:00","power":"0","country_name":"New Zealand"},
+
+{"volcano_id":"352080","volcano_name":"Tungurahua","lat":"-1.467","lng":"-
+
+78.442","subregion_id":null,"volcano_codename":"Tungurahua","country_id":"6","elevation":"5023","m
+
+easuredate":"2017-08-04 06:10:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"345070","volcano_name":"Turrialba","lat":"10.025","lng":"-
+
+83.767","subregion_id":null,"volcano_codename":"Turrialba","country_id":"7","elevation":"3340","me
+
+asuredate":"2017-08-04 07:45:00","power":"0","country_name":"Costa Rica"},
+
+{"volcano_id":"354040","volcano_name":"Tutupaca","lat":"-17.025","lng":"-
+
+70.358","subregion_id":null,"volcano_codename":"Tutupaca","country_id":"5","elevation":"5815","mea
+
+suredate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"354020","volcano_name":"Ubinas","lat":"-16.355","lng":"-
+
+70.903","subregion_id":null,"volcano_codename":"Ubinas","country_id":"5","elevation":"5672","measu
+
+redate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"},
+
+{"volcano_id":"252120","volcano_name":"Ulawun","lat":"-
+
+5.05","lng":"151.33","subregion_id":null,"volcano_codename":"Ulawun","country_id":"9","elevation":
+
+"2334","measuredate":"2017-08-04 03:40:00","power":"0","country_name":"Papua New Guinea"},
+
+{"volcano_id":"282100","volcano_name":"Unzendake","lat":"32.761","lng":"130.299","subregion_id":nu
+
+ll,"volcano_codename":"Unzendake","country_id":"2","elevation":"1483","measuredate":"2017-08-04 
+
+03:50:00","power":"0","country_name":"Japan"},
+
+{"volcano_id":"312070","volcano_name":"Veniaminof","lat":"56.17","lng":"-
+
+159.38","subregion_id":null,"volcano_codename":"Veniaminof","country_id":"4","elevation":"2507","m
+
+easuredate":"2017-08-04 08:25:00","power":"0","country_name":"United States"},
+
+{"volcano_id":"211020","volcano_name":"Vesuvius","lat":"40.821","lng":"14.426","subregion_id":null
+
+,"volcano_codename":"Vesuvius","country_id":"14","elevation":"1281","measuredate":"2017-08-04 
+
+12:05:00","power":"0","country_name":"Italy"},
+
+{"volcano_id":"357120","volcano_name":"Villarrica","lat":"-39.42","lng":"-
+
+71.93","subregion_id":null,"volcano_codename":"Villarrica","country_id":"15","elevation":"2847","m
+
+easuredate":"2017-08-04 06:20:00","power":"0","country_name":"Chile"},
+
+{"volcano_id":"211050","volcano_name":"Vulcano","lat":"38.404","lng":"14.962","subregion_id":null,
+
+"volcano_codename":"Vulcano","country_id":"14","elevation":"500","measuredate":"2017-08-04 
+
+12:05:00","power":"0","country_name":"Italy"},{"volcano_id":"241040","volcano_name":"White 
+
+Island","lat":"-
+
+37.52","lng":"177.18","subregion_id":null,"volcano_codename":"WhiteIsland","country_id":"33","elev
+
+ation":"321","measuredate":"2017-08-04 11:20:00","power":"0","country_name":"New Zealand"},
+
+{"volcano_id":"353020","volcano_name":"Wolf","lat":"0.02","lng":"-
+
+91.35","subregion_id":null,"volcano_codename":"Wolf","country_id":"6","elevation":"1710","measured
+
+ate":"2017-08-04 07:50:00","power":"0","country_name":"Ecuador"},
+
+{"volcano_id":"257100","volcano_name":"Yasur","lat":"-
+
+19.53","lng":"169.442","subregion_id":null,"volcano_codename":"Yasur","country_id":"3","elevation"
+
+:"361","measuredate":"2017-08-04 11:25:00","power":"0","country_name":"Vanuatu"},
+
+{"volcano_id":"354050","volcano_name":"Yucamane","lat":"-17.18","lng":"-
+
+70.2","subregion_id":null,"volcano_codename":"Yucamane","country_id":"5","elevation":"5550","measu
+
+redate":"2017-08-04 06:15:00","power":"0","country_name":"Peru"}]
